@@ -1,0 +1,2 @@
+# MyObsidianLib
+My obsidian library
